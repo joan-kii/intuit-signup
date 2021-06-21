@@ -50,3 +50,64 @@ a:hover {
   justify-content: space-around;
   font-size: .7rem;
 }
+
+.intuit-logo {
+  margin: 0;
+  padding: 1.6em 0;
+}
+
+.image-logo {
+  margin: auto;
+  width: 118px;
+  height: 35px;
+  display: block;
+  background-image: url(../assets/intuit-logos.png);
+}
+
+.ecosystem-logos {
+  margin-bottom: 1em;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.mint-logo {
+  width: 68px;
+  height: 25px;
+  display: block;
+  background-image: url(../assets/intuit-logos.png);
+  background-position: 19.4em 1.7em;
+}
+
+.quickbooks-logo {
+  margin-left: .5em;
+  width: 128px;
+  height: 25px;
+  display: block;
+  background-image: url(../assets/intuit-logos.png);
+  background-position: 28em 1.7em;
+}
+
+.turbotax-logo {
+  margin-left: .5em;
+  width: 103px;
+  height: 25px;
+  display: block;
+  background-image: url(../assets/intuit-logos.png);
+  background-position: 35.2em 1.7em;
+}
+
+.signin-form {
+  margin: auto;
+  padding: 1.9em;
+  width: 21em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border: 1px solid #c7c7c7;
+}
+
+.form-header {
+  font-size: 1.3rem;
+}
