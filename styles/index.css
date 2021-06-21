@@ -1,0 +1,52 @@
+/* Global */
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #ECEEF1;
+
+}
+
+button {
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: #0077C5;
+  border-radius: 4px;
+  border: 1px solid #4c4c4c;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #0077C5;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Topbar */
+
+.topbar {
+  position: relative;
+  top: 0;
+  height: 2.1em;
+  padding: .7em 2.3em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.signup-btn {
+  padding: 0 1.5em;
+  margin-left: .7em;
+}
+
+.already-signedup {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: .7rem;
+}
