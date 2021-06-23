@@ -1,1 +1,1 @@
-# intuit-signup
+Ejercico sobre Forms y Lists del currículum de HTML y CSS de The Odín Project. Puedes echarle un vistazo [aquí](https://joan-kii.github.io/intuit-signup).
