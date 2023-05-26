@@ -1,1 +1,8 @@
-Ejercico sobre Forms y Lists del currículum de HTML y CSS de The Odín Project. Puedes echarle un vistazo [aquí](https://joan-kii.github.io/intuit-signup).
+## [Live Demo](https://joan-kii.github.io/intuit-signup)
+
+## The Odin Project Exercise about HTML Forms and HTML Lists.
+
+### Built with
+ - HTML
+ - CSS
+ 
